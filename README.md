@@ -1,0 +1,1 @@
+Este foi o challenge de iniciante em programação do grupo one em parceria com a alura, neste desafio tive que simular um amigo secreto utilizando java script, neste projeto foram utilizados conceitos básicos da lógica de programação em java script e foram utilizados assuntos como listas e funções.
